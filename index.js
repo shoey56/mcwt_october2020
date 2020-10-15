@@ -115,9 +115,9 @@
         },
         {
             name: "Katie	Vancleve",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Clawson",
+            favoriteFood: "Tacos",
+            hobbies: ["Painting", "sudoku", "softball"]
 
         },
         {
