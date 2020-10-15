@@ -24,9 +24,9 @@
         },
         {
             name: "Alessia	Hoey",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Farmington Hills",
+            favoriteFood: "Anything with Nutella",
+            hobbies: [cooking, videogames, reading]
 
         },
         {
