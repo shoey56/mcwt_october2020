@@ -122,9 +122,9 @@
         },
         {
             name: "Kim	Hicks",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Detroit",
+            favoriteFood: "Seafood",
+            hobbies: [spending time with family, travel, crafting]
 
         },
         {
