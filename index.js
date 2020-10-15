@@ -145,7 +145,7 @@
             name: "Rose	Peruski",
             from: "South Lyon",
             favoriteFood: "Pizza or Pierogie",
-            hobbies: []
+            hobbies: ["Cat Foster Mom", "Rewatching Schitt's Creek and The Office ad nausuem :)"]
 
         },
         {
