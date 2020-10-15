@@ -96,7 +96,7 @@
             name: "EliLizabeth	Collacott",
             from: "FCA Stellantis",
             favoriteFood: "Key Lime Pie",
-            hobbies: [Quilting]
+            hobbies: ['Quilting']
 
         },
         {
@@ -110,7 +110,7 @@
             name: "Jamie	Nolan",
             from: "Ferndale",
             favoriteFood: "Tacos",
-            hobbies: [travel, writing, music]
+            hobbies: ['travel', 'writing', 'music']
 
         },
         {
@@ -124,7 +124,7 @@
             name: "Kim	Hicks",
             from: "Detroit",
             favoriteFood: "Seafood",
-            hobbies: [spending time with family, travel, crafting]
+            hobbies: ['spending time with family', 'travel', 'crafting']
 
         },
         {
@@ -152,7 +152,7 @@
             name: "Shannon	Hoey",
             from: "Clarence, NY",
             favoriteFood: "mashed potatoes",
-            hobbies: [snowboarding, sewing, biking]
+            hobbies: ['snowboarding', 'sewing', 'biking']
 
         },
         {
