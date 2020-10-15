@@ -150,9 +150,9 @@
         },
         {
             name: "Shannon	Hoey",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Clarence, NY",
+            favoriteFood: "mashed potatoes",
+            hobbies: [snowboarding, sewing, biking]
 
         },
         {
