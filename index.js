@@ -192,9 +192,9 @@
         },
         {
             name: "Zina	Haddad",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Troy, MI",
+            favoriteFood: "Pasta",
+            hobbies: [Painting]
 
         },
     ];
