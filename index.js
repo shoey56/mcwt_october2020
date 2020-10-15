@@ -178,9 +178,9 @@
         },
         {
             name: "Tiffany	Rathbun",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Waterford",
+            favoriteFood: "Banana Creme Pie",
+            hobbies: ["Video Games", "Painting"]
 
         },
         {
