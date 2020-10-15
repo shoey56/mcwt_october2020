@@ -166,7 +166,7 @@
             name: "Stephanie	Wahl",
             from: "Grand Rapids",
             favoriteFood: "Chocolate anything",
-            hobbies: []
+            hobbies: ["enjoy time with family", "nature walks", "playing at the dog park"]
 
         },
         {
