@@ -93,10 +93,10 @@
 
         },
         {
-            name: "Elizabeth	Collacott",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            name: "EliLizabeth	Collacott",
+            from: "FCA Stellantis",
+            favoriteFood: "Key Lime Pie",
+            hobbies: [Quilting]
 
         },
         {
