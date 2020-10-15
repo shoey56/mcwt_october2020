@@ -143,8 +143,8 @@
         },
         {
             name: "Rose	Peruski",
-            from: "",
-            favoriteFood: "",
+            from: "South Lyon",
+            favoriteFood: "Pizza or Pierogie",
             hobbies: []
 
         },
