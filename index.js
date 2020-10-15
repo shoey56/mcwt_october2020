@@ -156,10 +156,10 @@
 
         },
         {
-            name: "Stacey	Folsom",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            name: "Stacey Folsom",
+            from: "East Lansing",
+            favoriteFood: "Chips and dip",
+            hobbies: ["reading", "sewing", "playing with my kid"]
 
         },
         {
