@@ -68,7 +68,7 @@
             name: "Charissa	Wersen",
             from: "Brooklyn",
             favoriteFood: "Nachos",
-            hobbies: [hiking, cooking, netflix]
+            hobbies: ["hiking," "cooking," "netflix"]
 
         },
         {
