@@ -143,9 +143,9 @@
         },
         {
             name: "Rose	Peruski",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "South Lyon",
+            favoriteFood: "Pizza or Pierogie",
+            hobbies: ["Cat Foster Mom", "Rewatching Schitt's Creek and The Office ad nausuem :)"]
 
         },
         {
