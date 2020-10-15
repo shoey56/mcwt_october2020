@@ -38,9 +38,9 @@
         },
         {
             name: "April	Topolewski",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Warren",
+            favoriteFood: "Enchiladas",
+            hobbies: [Outdoors/Nature, Soccer, D&D, Home Projects]
 
         },
         {
