@@ -30,10 +30,10 @@
 
         },
         {
-            name: "Andrea	Flanders",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            name: "Andrea Flanders",
+            from: "Ann Arbor",
+            favoriteFood: "Pizza",
+            hobbies: ["bowling", "hiking", "dancing"]
 
         },
         {
