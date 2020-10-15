@@ -66,9 +66,9 @@
         },
         {
             name: "Charissa	Wersen",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Brooklyn",
+            favoriteFood: "Nachos",
+            hobbies: ["hiking," "cooking," "netflix"]
 
         },
         {
