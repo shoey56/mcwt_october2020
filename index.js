@@ -185,9 +185,9 @@
         },
         {
             name: "Venus	Wilborn",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Detroit, MI",
+            favoriteFood: "Tacos",
+            hobbies: [Crafting]
 
         },
         {
