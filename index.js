@@ -136,9 +136,9 @@
         },
         {
             name: "Rachel	Szczembara",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Garden City, MI",
+            favoriteFood: "Tacos",
+            hobbies: ["Yoga", "Watching cat videos", "Cooking"]
 
         },
         {
