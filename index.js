@@ -164,8 +164,8 @@
         },
         {
             name: "Stephanie	Wahl",
-            from: "",
-            favoriteFood: "",
+            from: "Grand Rapids",
+            favoriteFood: "Chocolate anything",
             hobbies: []
 
         },
