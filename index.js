@@ -26,7 +26,7 @@
             name: "Alessia	Hoey",
             from: "Farmington Hills",
             favoriteFood: "Anything with Nutella",
-            hobbies: [cooking, videogames, reading]
+            hobbies: ['cooking', 'videogames', 'reading']
 
         },
         {
@@ -40,7 +40,7 @@
             name: "April	Topolewski",
             from: "Warren",
             favoriteFood: "Enchiladas",
-            hobbies: [Outdoors/Nature, Soccer, D&D, Home Projects]
+            hobbies: ['Outdoors/Nature', 'Soccer', 'D&D', 'Home Projects']
 
         },
         {
