@@ -108,9 +108,9 @@
         },
         {
             name: "Jamie	Nolan",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Ferndale",
+            favoriteFood: "Tacos",
+            hobbies: [travel, writing, music]
 
         },
         {
