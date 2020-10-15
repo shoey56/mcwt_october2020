@@ -24,9 +24,9 @@
         },
         {
             name: "Alessia	Hoey",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Farmington Hills",
+            favoriteFood: "Anything with Nutella",
+            hobbies: [cooking, videogames, reading]
 
         },
         {
@@ -38,9 +38,9 @@
         },
         {
             name: "April	Topolewski",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Warren",
+            favoriteFood: "Enchiladas",
+            hobbies: [Outdoors/Nature, Soccer, D&D, Home Projects]
 
         },
         {
